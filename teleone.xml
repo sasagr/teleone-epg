@@ -3,60 +3,6 @@
   <channel id="teleone.it">
     <display-name>Tele One</display-name>
   </channel>
-  <programme start="20261001070000 +0200" stop="20261001074500 +0200" channel="teleone.it">
-    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
-  </programme>
-  <programme start="20261001074500 +0200" stop="20261001090000 +0200" channel="teleone.it">
-    <title lang="it">16 Live – Speciale Caf e Patronato conduce Roberto Oddo</title>
-  </programme>
-  <programme start="20261001090000 +0200" stop="20261001103000 +0200" channel="teleone.it">
-    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
-  </programme>
-  <programme start="20261001103000 +0200" stop="20261001120000 +0200" channel="teleone.it">
-    <title lang="it">Mattina Live – Spettacolo, Musica ed Arte</title>
-  </programme>
-  <programme start="20261001120000 +0200" stop="20261001130000 +0200" channel="teleone.it">
-    <title lang="it">Pronto in TV con Sonia Hamza</title>
-  </programme>
-  <programme start="20261001130000 +0200" stop="20261001133000 +0200" channel="teleone.it">
-    <title lang="it">Chef in Campo</title>
-  </programme>
-  <programme start="20261001133000 +0200" stop="20261001141000 +0200" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261001141000 +0200" stop="20261001150000 +0200" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261001150000 +0200" stop="20261001160000 +0200" channel="teleone.it">
-    <title lang="it">16 Live – Il Condominio Risponde conduce Roberto Oddo</title>
-  </programme>
-  <programme start="20261001160000 +0200" stop="20261001163000 +0200" channel="teleone.it">
-    <title lang="it">16 Live – Comuni Siciliani</title>
-  </programme>
-  <programme start="20261001163000 +0200" stop="20261001173000 +0200" channel="teleone.it">
-    <title lang="it">Pomeriggio Live con Mauro Faso</title>
-  </programme>
-  <programme start="20261001173000 +0200" stop="20261001180000 +0200" channel="teleone.it">
-    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
-  </programme>
-  <programme start="20261001180000 +0200" stop="20261001183000 +0200" channel="teleone.it">
-    <title lang="it">Santo Rosario</title>
-  </programme>
-  <programme start="20261001183000 +0200" stop="20261001193000 +0200" channel="teleone.it">
-    <title lang="it">Santa Messa</title>
-  </programme>
-  <programme start="20261001193000 +0200" stop="20261001201500 +0200" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261001201500 +0200" stop="20261001210000 +0200" channel="teleone.it">
-    <title lang="it">Dentro e Fuori con Nadia La Malfa</title>
-  </programme>
-  <programme start="20261001210000 +0200" stop="20261001220000 +0200" channel="teleone.it">
-    <title lang="it">16 Live – L’Avvocato Risponde con l’Avv.Andrea Pace</title>
-  </programme>
-  <programme start="20261001220000 +0200" stop="20261002070000 +0200" channel="teleone.it">
-    <title lang="it">Nazionale 24 – Programma comico di Cabaret</title>
-  </programme>
   <programme start="20261002070000 +0200" stop="20261002074500 +0200" channel="teleone.it">
     <title lang="it">Media News TG – Il Notiziario di Tele One</title>
   </programme>
@@ -356,5 +302,62 @@
   </programme>
   <programme start="20261007201500 +0200" stop="20261008000000 +0200" channel="teleone.it">
     <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261008000000 +0200" stop="20261008070000 +0200" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261008070000 +0200" stop="20261008074500 +0200" channel="teleone.it">
+    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
+  </programme>
+  <programme start="20261008074500 +0200" stop="20261008090000 +0200" channel="teleone.it">
+    <title lang="it">16 Live – Speciale Caf e Patronato conduce Roberto Oddo</title>
+  </programme>
+  <programme start="20261008090000 +0200" stop="20261008103000 +0200" channel="teleone.it">
+    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
+  </programme>
+  <programme start="20261008103000 +0200" stop="20261008120000 +0200" channel="teleone.it">
+    <title lang="it">Mattina Live – Spettacolo, Musica ed Arte</title>
+  </programme>
+  <programme start="20261008120000 +0200" stop="20261008130000 +0200" channel="teleone.it">
+    <title lang="it">Pronto in TV con Sonia Hamza</title>
+  </programme>
+  <programme start="20261008130000 +0200" stop="20261008133000 +0200" channel="teleone.it">
+    <title lang="it">Chef in Campo</title>
+  </programme>
+  <programme start="20261008133000 +0200" stop="20261008141000 +0200" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261008141000 +0200" stop="20261008150000 +0200" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261008150000 +0200" stop="20261008160000 +0200" channel="teleone.it">
+    <title lang="it">16 Live – Il Condominio Risponde conduce Roberto Oddo</title>
+  </programme>
+  <programme start="20261008160000 +0200" stop="20261008163000 +0200" channel="teleone.it">
+    <title lang="it">16 Live – Comuni Siciliani</title>
+  </programme>
+  <programme start="20261008163000 +0200" stop="20261008173000 +0200" channel="teleone.it">
+    <title lang="it">Pomeriggio Live con Mauro Faso</title>
+  </programme>
+  <programme start="20261008173000 +0200" stop="20261008180000 +0200" channel="teleone.it">
+    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
+  </programme>
+  <programme start="20261008180000 +0200" stop="20261008183000 +0200" channel="teleone.it">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20261008183000 +0200" stop="20261008193000 +0200" channel="teleone.it">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20261008193000 +0200" stop="20261008201500 +0200" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261008201500 +0200" stop="20261008210000 +0200" channel="teleone.it">
+    <title lang="it">Dentro e Fuori con Nadia La Malfa</title>
+  </programme>
+  <programme start="20261008210000 +0200" stop="20261008220000 +0200" channel="teleone.it">
+    <title lang="it">16 Live – L’Avvocato Risponde con l’Avv.Andrea Pace</title>
+  </programme>
+  <programme start="20261008220000 +0200" stop="20261009070000 +0200" channel="teleone.it">
+    <title lang="it">Nazionale 24 – Programma comico di Cabaret</title>
   </programme>
 </tv>
