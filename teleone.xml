@@ -3,54 +3,6 @@
   <channel id="teleone.it">
     <display-name>Tele One</display-name>
   </channel>
-  <programme start="20261012070000 +0200" stop="20261012074500 +0200" channel="teleone.it">
-    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
-  </programme>
-  <programme start="20261012074500 +0200" stop="20261012090000 +0200" channel="teleone.it">
-    <title lang="it">16 Live – L’Avvocato Risponde con l’Avv.Andrea Pace</title>
-  </programme>
-  <programme start="20261012090000 +0200" stop="20261012103000 +0200" channel="teleone.it">
-    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
-  </programme>
-  <programme start="20261012103000 +0200" stop="20261012120000 +0200" channel="teleone.it">
-    <title lang="it">Parchi Archeologici di Sicilia con Nadia La Malfa</title>
-  </programme>
-  <programme start="20261012120000 +0200" stop="20261012133000 +0200" channel="teleone.it">
-    <title lang="it">Pronto in TV con Sonia Hamza</title>
-  </programme>
-  <programme start="20261012133000 +0200" stop="20261012141000 +0200" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261012141000 +0200" stop="20261012153000 +0200" channel="teleone.it">
-    <title lang="it">RosaeNero Web e TV – Trasmissione sportiva</title>
-  </programme>
-  <programme start="20261012153000 +0200" stop="20261012160000 +0200" channel="teleone.it">
-    <title lang="it">US Sicilians – Siciliani in America</title>
-  </programme>
-  <programme start="20261012160000 +0200" stop="20261012163000 +0200" channel="teleone.it">
-    <title lang="it">16 Live – Comuni Siciliani</title>
-  </programme>
-  <programme start="20261012163000 +0200" stop="20261012173000 +0200" channel="teleone.it">
-    <title lang="it">Pomeriggio Live</title>
-  </programme>
-  <programme start="20261012173000 +0200" stop="20261012180000 +0200" channel="teleone.it">
-    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
-  </programme>
-  <programme start="20261012180000 +0200" stop="20261012183000 +0200" channel="teleone.it">
-    <title lang="it">Santo Rosario</title>
-  </programme>
-  <programme start="20261012183000 +0200" stop="20261012193000 +0200" channel="teleone.it">
-    <title lang="it">Santa Messa</title>
-  </programme>
-  <programme start="20261012193000 +0200" stop="20261012201500 +0200" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261012201500 +0200" stop="20261013000000 +0200" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
-  <programme start="20261013000000 +0200" stop="20261013060000 +0200" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
   <programme start="20261013060000 +0200" stop="20261013070000 +0200" channel="teleone.it">
     <title lang="it">Dentro e Fuori con Nadia La Malfa</title>
   </programme>
@@ -355,6 +307,54 @@
     <title lang="it">Media News il Telegiornale di Tele One</title>
   </programme>
   <programme start="20261018200000 +0200" stop="20261019000000 +0200" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261019000000 +0200" stop="20261019070000 +0200" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261019070000 +0200" stop="20261019074500 +0200" channel="teleone.it">
+    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
+  </programme>
+  <programme start="20261019074500 +0200" stop="20261019090000 +0200" channel="teleone.it">
+    <title lang="it">16 Live – L’Avvocato Risponde con l’Avv.Andrea Pace</title>
+  </programme>
+  <programme start="20261019090000 +0200" stop="20261019103000 +0200" channel="teleone.it">
+    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
+  </programme>
+  <programme start="20261019103000 +0200" stop="20261019120000 +0200" channel="teleone.it">
+    <title lang="it">Parchi Archeologici di Sicilia con Nadia La Malfa</title>
+  </programme>
+  <programme start="20261019120000 +0200" stop="20261019133000 +0200" channel="teleone.it">
+    <title lang="it">Pronto in TV con Sonia Hamza</title>
+  </programme>
+  <programme start="20261019133000 +0200" stop="20261019141000 +0200" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261019141000 +0200" stop="20261019153000 +0200" channel="teleone.it">
+    <title lang="it">RosaeNero Web e TV – Trasmissione sportiva</title>
+  </programme>
+  <programme start="20261019153000 +0200" stop="20261019160000 +0200" channel="teleone.it">
+    <title lang="it">US Sicilians – Siciliani in America</title>
+  </programme>
+  <programme start="20261019160000 +0200" stop="20261019163000 +0200" channel="teleone.it">
+    <title lang="it">16 Live – Comuni Siciliani</title>
+  </programme>
+  <programme start="20261019163000 +0200" stop="20261019173000 +0200" channel="teleone.it">
+    <title lang="it">Pomeriggio Live</title>
+  </programme>
+  <programme start="20261019173000 +0200" stop="20261019180000 +0200" channel="teleone.it">
+    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
+  </programme>
+  <programme start="20261019180000 +0200" stop="20261019183000 +0200" channel="teleone.it">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20261019183000 +0200" stop="20261019193000 +0200" channel="teleone.it">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20261019193000 +0200" stop="20261019201500 +0200" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261019201500 +0200" stop="20261020000000 +0200" channel="teleone.it">
     <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
   </programme>
 </tv>
