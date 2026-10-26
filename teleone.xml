@@ -3,57 +3,6 @@
   <channel id="teleone.it">
     <display-name>Tele One</display-name>
   </channel>
-  <programme start="20261025070000 +0100" stop="20261025074500 +0100" channel="teleone.it">
-    <title lang="it">Medianews TG – Il Notiziario di Tele One</title>
-  </programme>
-  <programme start="20261025074500 +0100" stop="20261025090000 +0100" channel="teleone.it">
-    <title lang="it">16 Live – Medicina e Salute conduce Roberto Oddo</title>
-  </programme>
-  <programme start="20261025090000 +0100" stop="20261025110000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
-  <programme start="20261025110000 +0100" stop="20261025120000 +0100" channel="teleone.it">
-    <title lang="it">Speciale Medianews TG – Approfondimento</title>
-  </programme>
-  <programme start="20261025120000 +0100" stop="20261025121500 +0100" channel="teleone.it">
-    <title lang="it">Vangelo per Noi</title>
-  </programme>
-  <programme start="20261025121500 +0100" stop="20261025133000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
-  <programme start="20261025133000 +0100" stop="20261025141000 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261025141000 +0100" stop="20261025150000 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261025150000 +0100" stop="20261025160000 +0100" channel="teleone.it">
-    <title lang="it">16 Live – Speciale Caf e Patronato conduce Roberto Oddo</title>
-  </programme>
-  <programme start="20261025160000 +0100" stop="20261025163000 +0100" channel="teleone.it">
-    <title lang="it">16 Live – Comuni Siciliani</title>
-  </programme>
-  <programme start="20261025163000 +0100" stop="20261025173000 +0100" channel="teleone.it">
-    <title lang="it">Pomeriggio Live</title>
-  </programme>
-  <programme start="20261025173000 +0100" stop="20261025180000 +0100" channel="teleone.it">
-    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
-  </programme>
-  <programme start="20261025180000 +0100" stop="20261025183000 +0100" channel="teleone.it">
-    <title lang="it">Santo Rosario</title>
-  </programme>
-  <programme start="20261025183000 +0100" stop="20261025193000 +0100" channel="teleone.it">
-    <title lang="it">Santa Messa</title>
-  </programme>
-  <programme start="20261025193000 +0100" stop="20261025200000 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261025200000 +0100" stop="20261026000000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
-  <programme start="20261026000000 +0100" stop="20261026070000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
   <programme start="20261026070000 +0100" stop="20261026074500 +0100" channel="teleone.it">
     <title lang="it">Media News TG – Il Notiziario di Tele One</title>
   </programme>
@@ -355,6 +304,57 @@
     <title lang="it">Media News il Telegiornale di Tele One</title>
   </programme>
   <programme start="20261031201500 +0100" stop="20261101000000 +0100" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261101000000 +0100" stop="20261101070000 +0100" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261101070000 +0100" stop="20261101074500 +0100" channel="teleone.it">
+    <title lang="it">Medianews TG – Il Notiziario di Tele One</title>
+  </programme>
+  <programme start="20261101074500 +0100" stop="20261101090000 +0100" channel="teleone.it">
+    <title lang="it">16 Live – Medicina e Salute conduce Roberto Oddo</title>
+  </programme>
+  <programme start="20261101090000 +0100" stop="20261101110000 +0100" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261101110000 +0100" stop="20261101120000 +0100" channel="teleone.it">
+    <title lang="it">Speciale Medianews TG – Approfondimento</title>
+  </programme>
+  <programme start="20261101120000 +0100" stop="20261101121500 +0100" channel="teleone.it">
+    <title lang="it">Vangelo per Noi</title>
+  </programme>
+  <programme start="20261101121500 +0100" stop="20261101133000 +0100" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261101133000 +0100" stop="20261101141000 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261101141000 +0100" stop="20261101150000 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261101150000 +0100" stop="20261101160000 +0100" channel="teleone.it">
+    <title lang="it">16 Live – Speciale Caf e Patronato conduce Roberto Oddo</title>
+  </programme>
+  <programme start="20261101160000 +0100" stop="20261101163000 +0100" channel="teleone.it">
+    <title lang="it">16 Live – Comuni Siciliani</title>
+  </programme>
+  <programme start="20261101163000 +0100" stop="20261101173000 +0100" channel="teleone.it">
+    <title lang="it">Pomeriggio Live</title>
+  </programme>
+  <programme start="20261101173000 +0100" stop="20261101180000 +0100" channel="teleone.it">
+    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
+  </programme>
+  <programme start="20261101180000 +0100" stop="20261101183000 +0100" channel="teleone.it">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20261101183000 +0100" stop="20261101193000 +0100" channel="teleone.it">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20261101193000 +0100" stop="20261101200000 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261101200000 +0100" stop="20261102000000 +0100" channel="teleone.it">
     <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
   </programme>
 </tv>
