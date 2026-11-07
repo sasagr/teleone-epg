@@ -3,57 +3,6 @@
   <channel id="teleone.it">
     <display-name>Tele One</display-name>
   </channel>
-  <programme start="20261106070000 +0100" stop="20261106074500 +0100" channel="teleone.it">
-    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
-  </programme>
-  <programme start="20261106074500 +0100" stop="20261106090000 +0100" channel="teleone.it">
-    <title lang="it">16 Live – Il Condominio Risponde conduce Roberto Oddo</title>
-  </programme>
-  <programme start="20261106090000 +0100" stop="20261106103000 +0100" channel="teleone.it">
-    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
-  </programme>
-  <programme start="20261106103000 +0100" stop="20261106120000 +0100" channel="teleone.it">
-    <title lang="it">Mattina Live – Spettacolo, Musica ed Arte</title>
-  </programme>
-  <programme start="20261106120000 +0100" stop="20261106130000 +0100" channel="teleone.it">
-    <title lang="it">Pronto in TV con Sonia Hamza</title>
-  </programme>
-  <programme start="20261106130000 +0100" stop="20261106133000 +0100" channel="teleone.it">
-    <title lang="it">Chef in Campo</title>
-  </programme>
-  <programme start="20261106133000 +0100" stop="20261106141000 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261106141000 +0100" stop="20261106150000 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261106150000 +0100" stop="20261106160000 +0100" channel="teleone.it">
-    <title lang="it">16 Live – L’Avvocato Risponde con l’Avv.Andrea Pace</title>
-  </programme>
-  <programme start="20261106160000 +0100" stop="20261106163000 +0100" channel="teleone.it">
-    <title lang="it">16 Live – Comuni Siciliani</title>
-  </programme>
-  <programme start="20261106163000 +0100" stop="20261106173000 +0100" channel="teleone.it">
-    <title lang="it">Pomeriggio Live con Mauro Faso</title>
-  </programme>
-  <programme start="20261106173000 +0100" stop="20261106180000 +0100" channel="teleone.it">
-    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
-  </programme>
-  <programme start="20261106180000 +0100" stop="20261106183000 +0100" channel="teleone.it">
-    <title lang="it">Santo Rosario</title>
-  </programme>
-  <programme start="20261106183000 +0100" stop="20261106193000 +0100" channel="teleone.it">
-    <title lang="it">Santa Messa</title>
-  </programme>
-  <programme start="20261106193000 +0100" stop="20261106201500 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261106201500 +0100" stop="20261107000000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
-  <programme start="20261107000000 +0100" stop="20261107070000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
   <programme start="20261107070000 +0100" stop="20261107074500 +0100" channel="teleone.it">
     <title lang="it">Media News TG – Il Notiziario di Tele One</title>
   </programme>
@@ -359,5 +308,53 @@
   </programme>
   <programme start="20261112220000 +0100" stop="20261113070000 +0100" channel="teleone.it">
     <title lang="it">Nazionale 24 – Programma comico di Cabaret</title>
+  </programme>
+  <programme start="20261113070000 +0100" stop="20261113074500 +0100" channel="teleone.it">
+    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
+  </programme>
+  <programme start="20261113074500 +0100" stop="20261113090000 +0100" channel="teleone.it">
+    <title lang="it">16 Live – Il Condominio Risponde conduce Roberto Oddo</title>
+  </programme>
+  <programme start="20261113090000 +0100" stop="20261113103000 +0100" channel="teleone.it">
+    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
+  </programme>
+  <programme start="20261113103000 +0100" stop="20261113120000 +0100" channel="teleone.it">
+    <title lang="it">Mattina Live – Spettacolo, Musica ed Arte</title>
+  </programme>
+  <programme start="20261113120000 +0100" stop="20261113130000 +0100" channel="teleone.it">
+    <title lang="it">Pronto in TV con Sonia Hamza</title>
+  </programme>
+  <programme start="20261113130000 +0100" stop="20261113133000 +0100" channel="teleone.it">
+    <title lang="it">Chef in Campo</title>
+  </programme>
+  <programme start="20261113133000 +0100" stop="20261113141000 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261113141000 +0100" stop="20261113150000 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261113150000 +0100" stop="20261113160000 +0100" channel="teleone.it">
+    <title lang="it">16 Live – L’Avvocato Risponde con l’Avv.Andrea Pace</title>
+  </programme>
+  <programme start="20261113160000 +0100" stop="20261113163000 +0100" channel="teleone.it">
+    <title lang="it">16 Live – Comuni Siciliani</title>
+  </programme>
+  <programme start="20261113163000 +0100" stop="20261113173000 +0100" channel="teleone.it">
+    <title lang="it">Pomeriggio Live con Mauro Faso</title>
+  </programme>
+  <programme start="20261113173000 +0100" stop="20261113180000 +0100" channel="teleone.it">
+    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
+  </programme>
+  <programme start="20261113180000 +0100" stop="20261113183000 +0100" channel="teleone.it">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20261113183000 +0100" stop="20261113193000 +0100" channel="teleone.it">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20261113193000 +0100" stop="20261113201500 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261113201500 +0100" stop="20261114000000 +0100" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
   </programme>
 </tv>
