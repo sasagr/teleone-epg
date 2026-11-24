@@ -3,57 +3,6 @@
   <channel id="teleone.it">
     <display-name>Tele One</display-name>
   </channel>
-  <programme start="20261124060000 +0100" stop="20261124070000 +0100" channel="teleone.it">
-    <title lang="it">Dentro e Fuori con Nadia La Malfa</title>
-  </programme>
-  <programme start="20261124070000 +0100" stop="20261124090000 +0100" channel="teleone.it">
-    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
-  </programme>
-  <programme start="20261124090000 +0100" stop="20261124103000 +0100" channel="teleone.it">
-    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
-  </programme>
-  <programme start="20261124103000 +0100" stop="20261124120000 +0100" channel="teleone.it">
-    <title lang="it">Mattina Live – Spettacolo, Musica ed Arte</title>
-  </programme>
-  <programme start="20261124120000 +0100" stop="20261124130000 +0100" channel="teleone.it">
-    <title lang="it">Pronto in TV con Sonia Hamza</title>
-  </programme>
-  <programme start="20261124130000 +0100" stop="20261124133000 +0100" channel="teleone.it">
-    <title lang="it">Luci sulla Città con Massimo Brizzi</title>
-  </programme>
-  <programme start="20261124133000 +0100" stop="20261124141000 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261124141000 +0100" stop="20261124144500 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261124144500 +0100" stop="20261124153000 +0100" channel="teleone.it">
-    <title lang="it">16 Goal Inside con Enzo Bonsangue</title>
-  </programme>
-  <programme start="20261124153000 +0100" stop="20261124163000 +0100" channel="teleone.it">
-    <title lang="it">Strada Facendo – Sicurezza Stradale con Roberto Oddo</title>
-  </programme>
-  <programme start="20261124163000 +0100" stop="20261124173000 +0100" channel="teleone.it">
-    <title lang="it">Pomeriggio Live</title>
-  </programme>
-  <programme start="20261124173000 +0100" stop="20261124180000 +0100" channel="teleone.it">
-    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
-  </programme>
-  <programme start="20261124180000 +0100" stop="20261124183000 +0100" channel="teleone.it">
-    <title lang="it">Santo Rosario</title>
-  </programme>
-  <programme start="20261124183000 +0100" stop="20261124193000 +0100" channel="teleone.it">
-    <title lang="it">Santa Messa</title>
-  </programme>
-  <programme start="20261124193000 +0100" stop="20261124201500 +0100" channel="teleone.it">
-    <title lang="it">Media News il Telegiornale di Tele One</title>
-  </programme>
-  <programme start="20261124201500 +0100" stop="20261125000000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
-  <programme start="20261125000000 +0100" stop="20261125070000 +0100" channel="teleone.it">
-    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
-  </programme>
   <programme start="20261125070000 +0100" stop="20261125074500 +0100" channel="teleone.it">
     <title lang="it">Media News TG – Il Notiziario di Tele One</title>
   </programme>
@@ -355,6 +304,57 @@
     <title lang="it">Media News il Telegiornale di Tele One</title>
   </programme>
   <programme start="20261130201500 +0100" stop="20261201000000 +0100" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261201000000 +0100" stop="20261201060000 +0100" channel="teleone.it">
+    <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
+  </programme>
+  <programme start="20261201060000 +0100" stop="20261201070000 +0100" channel="teleone.it">
+    <title lang="it">Dentro e Fuori con Nadia La Malfa</title>
+  </programme>
+  <programme start="20261201070000 +0100" stop="20261201090000 +0100" channel="teleone.it">
+    <title lang="it">Media News TG – Il Notiziario di Tele One</title>
+  </programme>
+  <programme start="20261201090000 +0100" stop="20261201103000 +0100" channel="teleone.it">
+    <title lang="it">Mattina Live – Rassegna Stampa in diretta</title>
+  </programme>
+  <programme start="20261201103000 +0100" stop="20261201120000 +0100" channel="teleone.it">
+    <title lang="it">Mattina Live – Spettacolo, Musica ed Arte</title>
+  </programme>
+  <programme start="20261201120000 +0100" stop="20261201130000 +0100" channel="teleone.it">
+    <title lang="it">Pronto in TV con Sonia Hamza</title>
+  </programme>
+  <programme start="20261201130000 +0100" stop="20261201133000 +0100" channel="teleone.it">
+    <title lang="it">Luci sulla Città con Massimo Brizzi</title>
+  </programme>
+  <programme start="20261201133000 +0100" stop="20261201141000 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261201141000 +0100" stop="20261201144500 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261201144500 +0100" stop="20261201153000 +0100" channel="teleone.it">
+    <title lang="it">16 Goal Inside con Enzo Bonsangue</title>
+  </programme>
+  <programme start="20261201153000 +0100" stop="20261201163000 +0100" channel="teleone.it">
+    <title lang="it">Strada Facendo – Sicurezza Stradale con Roberto Oddo</title>
+  </programme>
+  <programme start="20261201163000 +0100" stop="20261201173000 +0100" channel="teleone.it">
+    <title lang="it">Pomeriggio Live</title>
+  </programme>
+  <programme start="20261201173000 +0100" stop="20261201180000 +0100" channel="teleone.it">
+    <title lang="it">Santo Rosario dal Santuario di Lourdes</title>
+  </programme>
+  <programme start="20261201180000 +0100" stop="20261201183000 +0100" channel="teleone.it">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20261201183000 +0100" stop="20261201193000 +0100" channel="teleone.it">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20261201193000 +0100" stop="20261201201500 +0100" channel="teleone.it">
+    <title lang="it">Media News il Telegiornale di Tele One</title>
+  </programme>
+  <programme start="20261201201500 +0100" stop="20261202000000 +0100" channel="teleone.it">
     <title lang="it">Film, Spettacoli o Rappresentazioni Teatrali</title>
   </programme>
 </tv>
